@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/v.gojw.xyz",
     "slug": "v2",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 1141,
-    "timeDay": 428,
-    "timeWeek": 422,
-    "timeMonth": 1141,
-    "timeYear": 1141,
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 1120,
+    "timeDay": 658,
+    "timeWeek": 464,
+    "timeMonth": 1120,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2021-01-09": 73
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 788,
-    "timeWeek": 810,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "time": 796,
+    "timeDay": 943,
+    "timeWeek": 826,
+    "timeMonth": 796,
+    "timeYear": 796,
     "dailyMinutesDown": {}
   }
 ]
