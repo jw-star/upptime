@@ -24,9 +24,9 @@
     "url": "https://v.yyqqz.com",
     "icon": "https://favicons.githubusercontent.com/v.yyqqz.com",
     "slug": "yyqqz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -36,6 +36,7 @@
     "timeMonth": 1020,
     "timeYear": 1020,
     "dailyMinutesDown": {
+      "2021-01-29": 0,
       "2021-01-27": 20
     }
   }
