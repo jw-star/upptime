@@ -4,10 +4,10 @@
     "url": "https://v.gojw.xyz",
     "icon": "https://favicons.githubusercontent.com/v.gojw.xyz",
     "slug": "v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 978,
@@ -16,7 +16,7 @@
     "timeMonth": 978,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2021-02-03": 27,
+      "2021-02-03": 28,
       "2021-01-09": 73
     }
   },
@@ -25,7 +25,7 @@
     "url": "https://v.yyqqz.com",
     "icon": "https://favicons.githubusercontent.com/v.yyqqz.com",
     "slug": "yyqqz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "98.19%",
     "uptimeWeek": "98.66%",
