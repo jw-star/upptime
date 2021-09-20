@@ -8,6 +8,8 @@ sites:
     url: https://v.gojw.xyz
   - name: trojan
     url: https://trojan.gojw.xyz
+  - name: down
+    url: https://download.gojw.xyz
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
